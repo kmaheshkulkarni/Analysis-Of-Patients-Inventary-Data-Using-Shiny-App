@@ -1,0 +1,173 @@
+SrNo.,PatientID,FirstName,LastName,AddmissionStatus,phoneno,Height,weight,DOB,Age,BloodGroup,Address,pin,diseasesSymptoms,diseasesDetected,ConsultDoctor,DoctorID,LAB no,AddmissionDate,ReadmissionDate,ReadmissionStatus,Test ,testReport,AdmittedPatient,AdmitDate,DischargeDate,Feedback
+1,PD0001,Madhura,Deshmukh,Yes,9789897899,5.2,70,30/05/1995,21,O+,"Gangapur,Aurangabad-431133",431133,"Fever,vomiting",malaria,Dr.Sharma,DD08,F01,5/8/2016,8/12/2016,YES,Blood tests,positive,YES,9/11/2016,22-11-2016,Satisfied
+2,PD0002,Kadam,Priyanka,Yes,9897857489,5.2,40,7-Jan-96,20,O+,"Paithan,Aurangabad-431107",431107,Coughing,typhoid,Dr.Bhosale,DD07,F01,5/8/2016,,NO,Urine tests,negative,NO,,,Very Satisfied
+3,PD0003,samarth,zolpatil,Yes,4576757456,5.2,45,11-Feb-95,21,AB,"Phulambir,Aurangabad-431111",431111,Fatigue,chicken pox,Dr.Kale,DD01,F01,14/08/2016,9/12/2016,YES,Stool tests,positive,YES,10/11/2016,28-11-2016,Unsatisfied
+4,PD0004,Vrushali,Joshi,Yes,4869758575,5,45,28-05-1996,20,AB,"Gangapur,Aurangabad-431133",431133,Muscle aches,typhoid,Dr.Sharma,DD08,S09,16/08/2016,21-11-2016,YES,Sputum,positive,YES,10/11/2016,24-11-2016,Very Unsatisfied
+5,PD0005,Ajinkya,Barve,Yes,4569877584,5.4,48,30-04-1995,21,A+,"Sillod,Aurangabad-431112",431112,Back Pain,chicken pox,Dr.Kale,DD01,S02,29/08/2016,21-11-2016,YES,Blood tests,positive,NO,,,Satisfied
+6,PD0006,nitesh,rathod,Yes,9457854896,5.2,46,10-Mar-95,21,B+,"Sillod,Aurangabad-431112",431112,Chest Pain,Cancer,Dr.kulkarni,DD012,S01,1/9/2016,11/11/2016,Yes,,,YES,12/11/2016,16-11-2016,Neutral
+7,PD0007,Manali,Naik,Yes,4657957589,5.2,47,19-06-1995,21,B-,Aurangabad-431001,431001,Cough,Brain Damage,Dr.Pandey,DD05,S05,3/9/2016,10/11/2016,YES,Stool tests,negative,NO,,,Satisfied
+8,PD0008,Nakul,Bharuka,Yes,8967584578,5.2,45,30-05-1996,20,B+,"Gangapur,Aurangabad 431109",431109,cough,chicken pox,Dr.Jagtap,DD06,F05,4/9/2016,19-11-2016,YES,Blood tests,negative,NO,,,Very Satisfied
+9,PD0009,Saumi,Jondhale,Yes,7020454568,5.2,58,13-03-1996,20,A+,"Kannad,Aurangabad 431103",431103,Fever,malaria,Dr.Mane,DD04,F08,15/09/2016,19-11-2016,YES,Blood tests,positive,YES,15-11-2016,19-11-2016,Unsatisfied
+10,PD0010,Sanket,Arak,Yes,7020458789,5.2,36,31-10-1995,21,O+," khuldabad,Aurangabad 431101",431101,Fatigue,dengue,Dr.Sharma,DD08,F05,1/10/2016,,NO,,,NO,,,Very Unsatisfied
+11,PD0011,Shivakumar,Gk,Yes,7020463010,5.2,68,19-09-1995,21,O-,"Paithan,Aurangabad 431107",431107,Muscle aches,chicken pox,Dr.kulkarni,DD012,F04,3/10/2016,,NO,Urine tests,negative,YES,15-11-2016,24-11-2016,Satisfied
+12,PD0012,Piraji,pandilwad,Yes,7020467231,5.11,60,8-Apr-96,20,B+,"Phulambri,Aurangabad 431111",431111,Muscle aches,dengue,Dr.Mane,DD04,F06,8/10/2016,,NO,Sputum,negative,YES,16-11-2016,,Neutral
+13,PD0013,rahul,dhakate,Yes,7020471452,5.2,68,6-Sep-95,21,B+,"Sillod,Aurangabad 431112",431112,"Fever,vomiting",typhoid,Dr.Jagtap,DD06,F04,12/10/2016,21-11-2016,YES,,,NO,,,Satisfied
+14,PD0014,Rushikesh,Bhosale,Yes,7020475673,5.2,69,14-04-1995,21,B-,"Soegaom,Aurangabad 431120",431120,Back Pain,chicken pox,dr.kale,DD01,F08,5/11/2016,21-11-2016,YES,Blood tests,positive,NO,,,Very Satisfied
+15,PD0015,Mayur,Dahale,Yes,7020479894,4.6,40,27-10-1993,23,AB,"Vaijapur,Aurangabad 423701",423701,Back Pain,dengue,Dr.Bhosale,DD07,F12,6/11/2016,21-11-2016,YES,Blood tests,positive,YES,18-11-2016,4/12/2016,Unsatisfied
+16,PD0016,Ujual,Thusoo,Yes,7020484115,4.6,70,21-07-1995,21,AB,"Ambad,jalna 431204",431204,COUGH,malaria,Dr.Bhosale,DD07,S01,7/11/2016,17-12-2016,YES,,,YES,,,Very Unsatisfied
+17,PD0017,Rucha,kulkarni,Yes,7020488336,5.2,45,15-08-1995,21,A+,"Ghasawangi,jalna 431209",431209,Back Pain,"Suger,Heart-attack",Dr.Sharma,DD08,S01,8/11/2016,,NO,Blood tests,positive,NO,,,Satisfied
+18,PD0018,Ravi,Kumar,Yes,7020492557,5,47,22-06-1995,21,A+,"Jafferabad,jalna 431206",431206,Chest Pain,Heart-attack,Dr.kulkarni,DD012,S05,15/11/2016,,NO,,,YES,18-11-2016,28-11-2016,Neutral
+19,PD0019,Rohit,Sharma,Yes,7020496778,5,48,10-Oct-95,21,B+,"Jintur,Parbhani ",431509,Fatigue,chicken pox,Dr.Mane,DD04,S05,16/11/2016,,NO,Urine tests,negative,YES,19-11-2016,24-11-2016,Satisfied
+20,PD0020,Amal,Husain,Yes,7020500999,5,48,22-6-1995,21,B+,Selu Parbhani 431503,431503,Fatigue,typhoid,Dr.Pandey,DD05,S04,18/11/2016,1/12/2016,YES,Urine tests,positive,NO,,,Very Satisfied
+21,PD0021,mahesh,jadhav,Yes,7020505220,5.1,54,4-Jan-96,20,O-," Purna,Parbhani 431511",431511,Back Pain,dengue,Dr.kulkarni,DD012,S04,19/11/2016,1/12/2016,YES,Blood tests,negative,NO,,,Unsatisfied
+22,PD0022,Anand,Muley,Yes,7020509441,5.4,56,2-Feb-96,20,O+,"Sonpeth,parbhani 431516",431516,Chest Pain,typhoid,Dr.Pandey,DD05,S08,25/11/2016,1/12/2016,YES,Blood tests,positive,NO,,,Very Unsatisfied
+23,PD0023,Nikhilesh,Aglawe,Yes,7020513662,5.4,63,17-02-1995,21,AB+,"Parbhani,parbhani 431401",431401,Fever,chicken pox,Dr.Sharma,DD08,S09,26/11/2016,,NO,Stool tests,negative,YES,25-11-2016,1/12/2016,Satisfied
+24,PD0024,ashwini,Vaidya,Yes,7020517883,5.5,52,10-May-95,21,AB-,Beed,431122,Fever,accident,Dr.Kale,DD01,S07,28/11/2016,24-01-2016,YES,,,YES,25-11-2016,2/12/2016,Neutral
+25,PD0025,srinivas reddy,t,Yes,7020522104,5.5,51,7-Sep-96,20,A+,"Manwath,parbhani 431505",431505,"Fever,vomiting",dengue,Dr.Pandey,DD05,S12,16/12/2016,2/12/2016,YES,Sputum,positive,YES,26-11-2016,5/12/2016,Satisfied
+26,PD0026,Fayyaz,Shaikh,Yes,7020526325,5,47,7-Nov-96,20,A-,"Gangakheda,Parbhani 431514",431514,Back Pain,typhoid,Dr.kulkarni,DD012,S02,17/12/2016,,NO,Blood tests,positive,YES,24-11-2016,8/12/2016,Very Satisfied
+27,PD0027,Krishna,Sharma,Yes,7020530546,5.1,54,4-Mar-96,20,O+,"jalna,Jalna 431203",431203,Fatigue,chicken pox,Dr.Bhosale,DD07,S01,18/12/2016,2/12/2016,YES,Blood tests,positive,NO,,,Unsatisfied
+28,PD0028,Satyam,Mutha,Yes,7020534767,5.4,54,3-Feb-96,20,O-,"Mantha ,Jalna 431504",431504,Muscle aches,chicken pox,Dr.Bhosale,DD07,S12,19/12/2016,,NO,Urine tests,negative,NO,,,Very Unsatisfied
+29,PD0029,Vijay,Mokase,Yes,7020538988,5.4,54,28-12-1995,21,A+,"partur,Jalna 431501",431501,Back Pain,typhoid,Dr.Kale,DD01,S01,20/12/2016,3/12/2016,YES,Urine tests,positive,NO,,,Satisfied
+30,PD0030,Anil,Dange,Yes,7020543209,5.6,54,13-05-1996,20,AB+,"khuldabad,Aurangabad 431101",431101,vomiting,malaria,Dr.Bhosale,DD07,F02,21/12/2016,,NO,,,YES,28-11-2016,24-12-2016,Neutral
+31,PD0031,Mahesh,Kulkarni,Yes,8055527213,5.4,66,21/09/1993,23,A+,"Paithan,Aurangabad 431107",431107,Fever,dengue,Dr.Sharma,DD08,F05,22/12/2016,3/12/2016,YES,Blood tests,positive,YES,24-11-2016,25-12-2016,Satisfied
+32,PD0032,Nikhil,Singh,Yes,7020551651,4.5,57,18-11-1995,21,A-,"Phulambri,Aurangabad 431111",431111,vomiting,typhoid,Dr.kulkarni,DD012,F04,23/12/2016,,NO,Blood tests,negative,YES,25-11-2016,1/12/2016,Very Satisfied
+33,PD0033,Vrushali,Ingle,Yes,4869758551,5,45,28-05-1996,2,AB,"Sillod,Aurangabad 431112",431112,Muscle aches,typhoid,Dr.Sharma,DD08,S09,24/11/2016,27-12-2016,YES,Sputum,positive,YES,25/11/2016,20-12-2016,Very Unsatisfied
+34,PD0034,Ajinkya,Win,Yes,4569875841,5.4,48,30-04-1995,21,A+,"Purna,Parbhani 431511",431511,Back Pain,chicken pox,Dr.Kale,DD01,S02,25/11/2016,28-11-2016,YES,Blood tests,positive,NO,,,Satisfied
+35,PD0035,Rowdy,Rathod,Yes,9457848961,5.2,46,10-Mar-95,21,B+,"Sonpeth,parbhani 431516",431516,Chest Pain,Cancer,Dr.kulkarni,DD012,S01,26/11/2016,29/12/2016,Yes,,,YES,27/11/2016,10/12/2016,Neutral
+36,PD0036,Manali,Natwest,Yes,4657575891,5.2,47,19-06-1995,21,B-,"Parbhani,parbhani 431401",431401,Cough,Brain Damage,Dr.Pandey,DD05,S05,27/11/2016,29/11/2016,YES,Stool tests,negative,NO,,,Satisfied
+37,PD0037,Nakul,Bharti,Yes,8967545781,6,45,30-05-1996,20,B+,Beed,431122,cough,chicken pox,Dr.Jagtap,DD06,F05,28/11/2016,19-12-2016,YES,Blood tests,negative,NO,,,Very Satisfied
+38,PD0038,Saumitra,Jondar,Yes,7020664528,5.2,28,13-03-1996,20,A+,"Manwath,parbhani 431505",431505,Fever,malaria,Dr.Mane,DD04,F08,29/11/2016,20-12-2016,YES,Blood tests,positive,YES,30-11-2016,10/12/2016,Unsatisfied
+39,PD0039,Sanket,Crack,Yes,7020718749,4.1,36,31-10-1995,21,O+,"Gangakheda,Parbhani 431514",431514,Fatigue,dengue,Dr.Sharma,DD08,F05,30/11/2016,20-12-2016,NO,,,NO,,,Very Unsatisfied
+40,PD0040,Shiva,Shankar,Yes,7020465000,5.2,18,19-09-1995,21,O-,"Jintur,Parbhani 431509",431509,Muscle aches,chicken pox,Dr.kulkarni,DD012,F04,1/12/2016,20-12-2016,NO,Urine tests,negative,YES,30-11-2016,10/12/2016,Satisfied
+41,PD0041,Prajakta,Jadhav,Yes,7020476201,5.11,60,8-Apr-96,20,B+,Selu Parbhani 431503,431503,Muscle aches,dengue,Dr.Mane,DD04,F06,3/12/2016,20-12-2016,NO,Sputum,negative,YES,30-11-2016,,Neutral
+42,PD0042,Radhye,Shyam,Yes,7020466452,5.2,68,6-Sep-95,21,B+," Purna,Parbhani 431511",431511,"Fever,vomiting",typhoid,Dr.Jagtap,DD06,F04,5/12/2016,20-12-2016,YES,,,NO,,,Satisfied
+43,PD0043,Rushikesh,Bihari,Yes,7020477673,6,69,14-04-1995,21,B-,"Sonpeth,parbhani 431516",431516,Back Pain,chicken pox,dr.kale,DD01,F08,8/12/2016,20-12-2016,YES,Blood tests,positive,NO,,,Very Satisfied
+44,PD0044,Mayur,Dahale,Yes,7020476594,5.2,40,27-10-1993,23,AB,"jalna,Jalna 431203",431203,Back Pain,dengue,Dr.Bhosale,DD07,F12,13/12/2016,20-12-2022,YES,Blood tests,positive,YES,1/12/2016,10/12/2016,Unsatisfied
+45,PD0045,Jasprit,Bumrah,Yes,7020477115,6,70,21-07-1995,21,AB,"Mantha ,Jalna 431504",431504,COUGH,malaria,Dr.Bhosale,DD07,S01,15/12/2016,20-12-2023,YES,,,YES,,,Very Unsatisfied
+46,PD0046,Ruchan,Skul,Yes,7020888336,5.2,45,15-08-1995,21,A+,"Jintur,Parbhani 431510",431510,Back Pain,"Suger,Heart-attack",Dr.Sharma,DD08,S01,17/12/2016,,NO,Blood tests,positive,NO,,,Satisfied
+47,PD0047,Akshay,Kumar,Yes,7020455557,5,47,22-06-1995,21,A+,Selu Parbhani 431504,431504,Chest Pain,Heart-attack,Dr.kulkarni,DD012,S05,18/12/2016,,NO,,,YES,1/12/2016,10/12/2016,Neutral
+48,PD0048,Rohit,Roy,Yes,7020776778,5,48,10-Oct-95,21,B+," Purna,Parbhani 431512",431512,Fatigue,chicken pox,Dr.Mane,DD04,S05,22/12/2016,,NO,Urine tests,negative,YES,1/12/2016,10/12/2016,Satisfied
+49,PD0049,Asma,Zamin,Yes,7020500979,5,48,22-6-1995,20,B+,"Ambajogai,Beed",431517,Fatigue,typhoid,Dr.Pandey,DD05,S04,10/1/2016,21-12-2016,YES,Urine tests,positive,NO,,,Very Satisfied
+50,PD0050,Mahesh,Jimwala,Yes,7020785220,5.1,54,4-Jan-96,21,O-,"Parbhani,parbhani 431402",431402,Back Pain,dengue,Dr.kulkarni,DD012,S04,11/1/2016,21-12-2016,YES,Blood tests,negative,NO,,,Unsatisfied
+51,PD0051,Anand,Mankar,Yes,7020789441,5.4,56,2-Feb-96,20,O+,"Jintur,Parbhani ",431509,Chest Pain,typhoid,Dr.Pandey,DD05,S08,12/1/2016,21-12-2016,YES,Blood tests,positive,NO,,,Very Unsatisfied
+52,PD0052,Nikhilesh,Paniwale,Yes,7020513782,5.4,63,17-02-1995,21,AB+,"Manwath,parbhani 431506",431506,Fever,chicken pox,Dr.Sharma,DD08,S09,13/01/2016,,NO,Stool tests,negative,YES,2/12/2016,12/12/2016,Satisfied
+53,PD0053,Ashwin,Vaidya,Yes,7020517883,5.5,52,10-May-95,21,AB-,"Gangakheda,Parbhani 431515",431515,Fever,accident,Dr.Kale,DD01,S07,14/01/2016,21-12-2016,YES,,,YES,4/12/2016,12/12/2016,Neutral
+54,PD0054,Shri,Reddy,Yes,7020529104,5.5,51,7-Sep-96,20,A+,"jalna,Jalna 431204",431204,"Fever,vomiting",dengue,Dr.Pandey,DD05,S12,15/01/2016,21-12-2016,YES,Sputum,positive,YES,4/12/2016,12/12/2016,Satisfied
+55,PD0055,Fayyaz,Khan,Yes,7020522325,5,47,7-Nov-96,20,A-,"Mantha ,Jalna 431505",431505,Back Pain,typhoid,Dr.kulkarni,DD012,S02,16/02/2016,,NO,Blood tests,positive,YES,4/12/2016,12/12/2016,Very Satisfied
+56,PD0056,Krishna,Dilwala,Yes,7020534646,5.1,54,4-Mar-96,20,O+,"partur,Jalna 431502",431502,Fatigue,chicken pox,Dr.Bhosale,DD07,S01,17/02/2016,30-12-2016,YES,Blood tests,positive,NO,,,Unsatisfied
+57,PD0057,Satya,Mitha,Yes,7020536767,5.4,54,3-Feb-96,20,O-,"khuldabad,Aurangabad 431102",431102,Muscle aches,chicken pox,Dr.Bhosale,DD07,S12,18/02/2016,,NO,Urine tests,negative,NO,,,Very Unsatisfied
+58,PD0058,Vijay,Thokase,Yes,7020898988,5.4,54,28-12-1995,21,A+,"Paithan,Aurangabad 431108",431108,Back Pain,typhoid,Dr.Kale,DD01,S01,19/02/2016,30-12-2016,YES,Urine tests,positive,NO,,,Satisfied
+59,PD0059,Anil,Dangar,Yes,7020589209,5.6,54,13-05-1996,20,AB+,"Phulambri,Aurangabad 431112",431112,vomiting,malaria,Dr.Bhosale,DD07,F02,20/02/2016,,NO,,,YES,4/12/2016,24-12-2016,Neutral
+60,PD0060,YOMahesh,Kulkarni,Yes,7020540430,5.4,56,3-Apr-96,20,A+,"Sillod,Aurangabad 431113",431113,vomiting,malaria,Dr.Sharma,DD08,F05,21/02/2016,30-12-2016,YES,Blood tests,positive,YES,4/12/2016,25-12-2016,Satisfied
+61,PD0061,Niket,Puri,Yes,7020559651,5.4,57,18-11-1995,20,A-,"Purna,Parbhani 431512",431513,vomiting,typhoid,Dr.kulkarni,DD012,F04,22/02/2016,,NO,Blood tests,negative,YES,4/12/2016,25-12-2016,Very Satisfied
+62,PD0062,Nikita,Arun,Yes,7020512182,5.2,66,22-6-1995,21,O+,"Ambajogai,Beed",431517,"Fever,vomiting",malaria,Dr.Sharma,DD08,F01,23/02/2016,1/1/2016,YES,Blood tests,positive,NO,,,Satisfied
+63,PD0063,Nikesh,Kolte,Yes,7020521883,4.6,64,4-Jan-96,20,O+,"Parbhani,parbhani 431402",431402,Coughing,typhoid,Dr.Bhosale,DD07,F01,24/02/2016,1/1/2016,NO,Urine tests,negative,NO,,,Very Satisfied
+64,PD0064,Jason,Roy,Yes,7020522104,5.2,59,2-Feb-96,20,AB,"Ambajogai,Beed",431517,Fatigue,chicken pox,Dr.Kale,DD01,F01,25/03/2016,1/1/2016,YES,Stool tests,positive,NO,,,Unsatisfied
+65,PD0065,Joss,Buttler,Yes,7020522125,5,58,17-02-1995,21,AB,"Manwath,parbhani 431506",431506,Muscle aches,typhoid,Dr.Sharma,DD08,S09,26/03/2016,1/1/2016,YES,Sputum,positive,NO,,,Very Unsatisfied
+66,PD0066,Joy,Root,Yes,7020521646,5,54,10-May-95,21,A+,"Gangakheda,Parbhani 431515",431515,Back Pain,chicken pox,Dr.Kale,DD01,S02,27/03/2016,1/1/2016,YES,Blood tests,positive,NO,,,Satisfied
+67,PD0067,Gavin  ,Brown,Yes,7020521767,5,59,7-Sep-96,20,B+,"Jintur,Parbhani 431510",431510,Chest Pain,Cancer,Dr.kulkarni,DD012,S01,28/03/2016,1/1/2016,Yes,,,NO,,,Neutral
+68,PD0068,Roldan ,Adams,Yes,7020892188,5.1,60,7-Nov-96,20,B-,Selu Parbhani 431504,431504,Cough,Brain Damage,Dr.Pandey,DD05,S05,29/03/2016,1/1/2016,YES,Stool tests,negative,NO,,,Satisfied
+69,PD0069,Carlos ,Green ,Yes,7020582109,5.4,56,4-Mar-96,20,B+," Purna,Parbhani 431512",431512,cough,chicken pox,Dr.Jagtap,DD06,F05,30/03/2016,2/1/2016,YES,Blood tests,negative,NO,,,Very Satisfied
+70,PD0070,Addie , Jones ,Yes,7020521430,5.4,56,3-Feb-96,20,A+,"Ambajogai,Beed",431517,Fever,malaria,Dr.Mane,DD04,F08,31/03/2016,2/1/2016,YES,Blood tests,positive,YES,6/12/2016,25-12-2016,Unsatisfied
+71,PD0071,Adel,White,Yes,7020559621,5.5,56,28-12-1996,20,O+,"jalna,Jalna 431204",431204,Fatigue,dengue,Dr.Sharma,DD08,F05,1/4/2016,2/1/2016,NO,,,NO,,,Very Unsatisfied
+72,PD0072,Skylar Taylor,Williams,Yes,8120559651,5.5,56,13-05-1996,20,O-,"Mantha ,Jalna 431505",431505,Muscle aches,chicken pox,Dr.kulkarni,DD012,F04,2/4/2016,2/1/2016,NO,Urine tests,negative,YES,6/12/2016,27-12-2016,Satisfied
+73,PD0073,Bavol ,Taylor,Yes,8120512182,5,56,3-Apr-96,20,B+,"Jintur,Parbhani 431511",431511,Muscle aches,dengue,Dr.Mane,DD04,F06,3/4/2016,2/1/2016,NO,Sputum,negative,YES,6/12/2016,27-12-2016,Neutral
+74,PD0074,Franklin ,Cote,Yes,8220521883,5.1,56,18-11-1996,20,B+,Selu Parbhani 431505,431505,"Fever,vomiting",typhoid,Dr.Jagtap,DD06,F04,7/4/2016,3/1/2016,YES,,,NO,,,Satisfied
+75,PD0075,Robert Cote,Clark,Yes,8320522104,5.4,56,22-6-1996,20,B-," Purna,Parbhani 431513",431413,Back Pain,chicken pox,dr.kale,DD01,F08,8/4/2016,3/1/2016,YES,Blood tests,positive,NO,,,Very Satisfied
+76,PD0076,Abigail  ,Wright ,Yes,8420522125,5.4,59,4-Jan-96,20,AB,"Kaij, Beed",431518,Back Pain,dengue,Dr.Bhosale,DD07,F12,9/4/2016,3/1/2016,YES,Blood tests,positive,YES,7/12/2016,27-12-2016,Unsatisfied
+77,PD0077,James ,Taylor,Yes,7820521646,5.6,59,2-Feb-96,20,AB,"Parbhani,parbhani 431403",431401,COUGH,malaria,Dr.Bhosale,DD07,S01,10/4/2016,3/1/2016,YES,,,YES,7/12/2016,27-12-2016,Very Unsatisfied
+78,PD0078,Mukesh ,Trivedi,Yes,8520521767,5.4,59,17-02-1995,21,A+,"Jintur,Parbhani ",431509,Back Pain,"Suger,Heart-attack",Dr.Sharma,DD08,S01,11/4/2016,3/1/2016,NO,Blood tests,positive,NO,,,Satisfied
+79,PD0079,Mavis ,Wilson ,Yes,9020892188,5.4,59,10-May-95,21,A+,"Manwath,parbhani 431507",431507,Chest Pain,Heart-attack,Dr.kulkarni,DD012,S05,12/4/2016,3/1/2016,NO,,,YES,7/12/2016,27-12-2016,Neutral
+80,PD0080,Rumer,Sanchez ,Yes,8720582109,5.2,59,7-Sep-96,20,B+,"Sonpeth,parbhani",431516,Fatigue,chicken pox,Dr.Mane,DD04,S05,13/04/2016,4/1/2016,NO,Urine tests,negative,YES,7/12/2016,27-12-2016,Satisfied
+81,PD0081,John , Fernando,Yes,7620521430,6,60,7-Nov-96,20,B+,"jalna,Jalna 431205",431205,Fatigue,typhoid,Dr.Pandey,DD05,S04,14/04/2016,4/1/2016,YES,Urine tests,positive,NO,,,Very Satisfied
+82,PD0082,Albert,Anderson ,Yes,9820559621,6,60,4-Mar-96,20,O-,"Mantha ,Jalna 431506",431506,Back Pain,dengue,Dr.kulkarni,DD012,S04,22/04/2016,4/1/2016,YES,Blood tests,negative,NO,,,Unsatisfied
+83,PD0083,Erin , Moore,Yes,9120559651,5,60,3-Feb-96,20,O+,"partur,Jalna 431503",431505,Chest Pain,typhoid,Dr.Pandey,DD05,S08,23/04/2016,4/1/2016,YES,Blood tests,positive,NO,,,Very Unsatisfied
+84,PD0084,Rubert ,Green ,Yes,7120512182,6,60,28-12-1995,21,AB+,"khuldabad,Aurangabad 431103",431103,Fever,chicken pox,Dr.Sharma,DD08,S09,24/04/2016,4/1/2016,NO,Stool tests,negative,YES,8/12/2016,26-12-2016,Satisfied
+85,PD0085,Alex ,Martinez ,Yes,9220521883,5,60,13-05-1996,20,AB-,"Paithan,Aurangabad 431109",431109,Fever,accident,Dr.Kale,DD01,S07,25/04/2016,4/1/2016,YES,,,YES,8/12/2016,25-12-2016,Neutral
+86,PD0086,Edmond, Davis,Yes,8720522104,5.1,60,3-Apr-96,20,A+,"Phulambri,Aurangabad 431113",431113,"Fever,vomiting",dengue,Dr.Pandey,DD05,S12,26/04/2016,4/1/2016,YES,Sputum,positive,YES,8/12/2016,24-12-2016,Satisfied
+87,PD0087,Aubree , Taylor,Yes,9820522125,5.4,67,18-11-1995,21,A-,"Sillod,Aurangabad 431114",431114,Back Pain,typhoid,Dr.kulkarni,DD012,S02,27/04/2016,4/1/2016,NO,Blood tests,positive,YES,8/12/2016,25-12-2016,Very Satisfied
+88,PD0088,Bowman , Jones,Yes,9020521646,5.4,67,22-6-1995,21,O+,"Purna,Parbhani 431513",431513,Fatigue,chicken pox,Dr.Bhosale,DD07,S01,28/04/2016,4/1/2016,YES,Blood tests,positive,NO,,,Unsatisfied
+89,PD0089,Danior,Young ,Yes,9520521767,6.3,67,4-Jan-96,20,O-,"Kaij, Beed",431518,Muscle aches,chicken pox,Dr.Bhosale,DD07,S12,21/05/2016,5/1/2016,NO,Urine tests,negative,NO,,,Very Unsatisfied
+90,PD0090,Kody ,Anderson,Yes,9420892188,5.5,68,2-Feb-96,20,A+,"Parbhani,parbhani 431403",431401,Back Pain,typhoid,Dr.Kale,DD01,S01,22/05/2016,5/1/2016,YES,Urine tests,positive,NO,,,Satisfied
+91,PD0091,Wilmer ,Markson,Yes,9620582109,6,71,17-02-1995,21,AB+,"Jintur,Parbhani ",431509,vomiting,malaria,Dr.Bhosale,DD07,F02,23/05/2016,5/1/2016,NO,,,YES,9/12/2016,22-12-2016,Neutral
+92,PD0092,Dugan ,Johnson,Yes,9920521430,5.1,65,10-May-95,21,A+,Aurangabad431002,431002,Fever,dengue,Dr.Sharma,DD08,F05,24/05/2016,5/1/2016,YES,Blood tests,positive,YES,9/12/2016,21-12-2016,Satisfied
+93,PD0093,Salal ,Thomas,Yes,9920559621,5.4,66,7-Sep-96,20,A-,"Gangakheda,Parbhani 431516",431401,Fever,accident,Dr.Kale,DD01,S07,25/05/2016,5/1/2016,YES,Blood tests,negative,NO,,,Very Satisfied
+94,PD0094,Gordon  ,Singh,Yes,9020522125,5.4,64,7-Nov-96,20,AB,"Jintur,Parbhani 431511",431511,"Fever,vomiting",dengue,Dr.Pandey,DD05,S12,26/05/2016,5/1/2016,YES,Blood tests,positive,NO,,,Very Unsatisfied
+95,PD0095,Satish ,Rodriguez ,Yes,7020521646,5.6,59,4-Mar-96,20,A+,Selu Parbhani 431505,431505,Back Pain,typhoid,Dr.kulkarni,DD012,S02,27/05/2016,5/1/2016,NO,Stool tests,negative,YES,10/12/2016,26-12-2016,Very Unsatisfied
+96,PD0096,Gavin ,Gagan,Yes,9524521767,5.4,58,3-Feb-96,20,A-," Purna,Parbhani 431513",431513,Fatigue,chicken pox,Dr.Bhosale,DD07,S01,28/05/2016,5/1/2016,YES,,,YES,10/12/2016,25-12-2016,Satisfied
+97,PD0097,Perri ,Martin,Yes,9429892188,5.4,54,28-12-1995,21,O+,"Kaij, Beed",431518,Muscle aches,chicken pox,Dr.Bhosale,DD07,S12,29/05/2016,6/1/2016,YES,Sputum,positive,YES,,,Neutral
+98,PD0098,Aslam ,Ahmad,Yes,9622582109,6,59,13-05-1996,20,O-,"jalna,Jalna 431205",431205,Back Pain,typhoid,Dr.Kale,DD01,S01,31/03/2016,6/1/2016,NO,Blood tests,positive,YES,,,Satisfied
+99,PD0099,Rajesh , Scott,Yes,9990521430,6,70,3-Apr-96,20,A+,"Mantha ,Jalna 431506",431506,vomiting,malaria,Dr.Bhosale,DD07,F02,1/6/2016,6/1/2016,YES,Blood tests,positive,NO,,,Very Satisfied
+100,PD0100,Sunil ,Corea,Yes,9990520000,6,68,18-11-1995,21,AB+,"Jintur,Parbhani 431512",431512,Fever,dengue,Dr.Sharma,DD08,F05,2/6/2016,6/1/2016,NO,Urine tests,negative,NO,,,Very Unsatisfied
+101,PD0101,Aland,Wilson,Yes,7020465000,5.2,70,30-05-1995,21,AB,Selu Parbhani 431506,431506,Fatigue,accident,Dr.Bhosale,DD07,S01,3/6/2016,6/1/2016,NO,Urine tests,negative,NO,,,Neutral
+102,PD0102,Zakir,Baker,Yes,7020476201,5.2,40,7-Jan-96,20,A+," Purna,Parbhani 431514",431514,Back Pain,dengue,Dr.Bhosale,DD07,S12,4/6/2016,8/12/2016,YES,Blood tests,positive,YES,9/11/2016,22-11-2016,Satisfied
+103,PD0103,Dugan,Markson,Yes,7020466452,5.2,45,11-Feb-95,21,A-,Aurangabad-431005,431005,Chest Pain,typhoid,Dr.Kale,DD01,S01,5/6/2016,,NO,Urine tests,negative,NO,,,Very Satisfied
+104,PD0104,Skylar,Taylor,Yes,7020477673,5,45,28-05-1996,20,O+,"Parbhani,parbhani 431404",431401,Fever,chicken pox,Dr.Bhosale,DD07,F08,6/6/2016,9/12/2016,YES,Stool tests,positive,YES,10/11/2016,28-11-2016,Unsatisfied
+105,PD0105,Christopher,Campbell,Yes,7020476594,5.4,48,30-04-1995,21,O-,"Jintur,Parbhani ",431509,Fever,chicken pox,Dr.Sharma,DD08,F11,7/6/2016,21-11-2016,YES,Sputum,positive,YES,10/11/2016,24-11-2016,Very Unsatisfied
+106,PD0106,Ravi,De,Yes,7020477115,5.2,46,10-Mar-95,21,A+,"Manwath,parbhani 431508",431508,"Fever,vomiting",typhoid,Dr.Kale,DD01,S07,8/6/2016,21-11-2016,YES,Blood tests,positive,NO,,,Satisfied
+107,PD0107,Wilmer,Johnson,Yes,7020888336,5.2,47,19-06-1995,21,AB+,"Ambajogai,Beed",431401,Back Pain,malaria,Dr.Pandey,DD05,S12,9/6/2016,11/11/2016,Yes,,,YES,12/11/2016,16-11-2016,Neutral
+108,PD0108,Bowman,Young,Yes,7020455557,5.2,45,30-05-1996,20,AB,"jalna,Jalna 431206",431206,Fatigue,dengue,Dr.kulkarni,DD012,S02,10/6/2016,10/11/2016,YES,Stool tests,negative,NO,,,Satisfied
+109,PD0109,Jal,Roy,Yes,7020776778,5.2,58,13-03-1996,20,A+,"Mantha ,Jalna 431507",431507,Muscle aches,accident,Dr.Bhosale,DD07,S01,11/6/2016,19-11-2016,YES,Blood tests,negative,NO,,,Very Satisfied
+110,PD0110,Rajesh,Scott,Yes,7020500979,5.2,36,31-10-1995,21,A-,"partur,Jalna 431504",431504,Back Pain,dengue,Dr.Bhosale,DD07,S12,12/6/2016,19-11-2016,YES,Blood tests,positive,YES,15-11-2016,19-11-2016,Very Unsatisfied
+111,PD0111,John,Wilson,Yes,7020785220,5.2,68,19-09-1995,21,O+,"khuldabad,Aurangabad 431104",431104,vomiting,typhoid,Dr.Kale,DD01,S01,13/07/2016,,NO,,,NO,,,Very Unsatisfied
+112,PD0112,Perri,Martin,Yes,7020789441,5.11,60,8-Apr-96,20,O-,"Paithan,Aurangabad 431110",431110,Fever,chicken pox,Dr.Bhosale,DD07,F08,14/07/2016,,NO,Urine tests,negative,YES,15-11-2016,24-11-2016,Satisfied
+113,PD0113,Addie,White,Yes,7020513782,5.2,68,6-Sep-95,21,A+,"Phulambri,Aurangabad 431114",431114,Fever,chicken pox,Dr.Sharma,DD08,F11,15/07/2016,,NO,Sputum,negative,YES,16-11-2016,,Neutral
+114,PD0114,Gordon,Thomas,Yes,7020517883,5.2,69,14-04-1995,21,AB+,"Sillod,Aurangabad 431115",431115,"Fever,vomiting",typhoid,Dr.Bhosale,DD07,S01,16/07/2016,21-11-2016,YES,,,NO,,,Satisfied
+115,PD0115,Danior,Jones,Yes,7020529104,4.6,40,27-10-1993,23,AB,"Purna,Parbhani 431514",431514,Back Pain,malaria,Dr.Bhosale,DD07,S12,17/07/2016,21-11-2016,YES,Blood tests,positive,NO,,,Very Satisfied
+116,PD0116,Salal,Singh,Yes,7020522325,4.6,70,21-07-1995,21,A+,"Gangakhed,Parbhani",431514,Fatigue,dengue,Dr.Kale,DD01,S01,18/07/2016,21-11-2016,YES,Blood tests,positive,YES,18-11-2016,4/12/2016,Very Unsatisfied
+117,PD0117,Mavis,Sanchez,Yes,7020534646,5.2,45,15-08-1995,21,A-,"Parbhani,parbhani 431404",431404,Muscle aches,accident,Dr.Bhosale,DD07,F14,19/07/2016,17-12-2016,YES,,,YES,,,Neutral
+118,PD0118,Jack,Robinson,Yes,7020536767,5,47,22-06-1995,21,O+,"Gangakhed,Parbhani",431514,Back Pain,dengue,Dr.Sharma,DD08,F17,20/07/2016,,NO,Blood tests,positive,NO,,,Satisfied
+119,PD0119,Carlos,Green,Yes,7020898988,5,48,10-Oct-95,21,O-,"Manwath,parbhani 431508",431508,vomiting,typhoid,Dr.Kale,DD01,S07,21/07/2016,,NO,,,YES,18-11-2016,28-11-2016,Very Satisfied
+120,PD0120,Josh,Hernandez,Yes,7020589209,5,48,22-6-1995,21,A+,"Ambajogai,Beed",431517,Fever,chicken pox,Dr.Pandey,DD05,S12,22/07/2016,,NO,Urine tests,negative,YES,19-11-2016,24-11-2016,Unsatisfied
+121,PD0121,Adel,Jones,Yes,7020540430,5.1,54,4-Jan-96,20,AB+,"Jintur,Parbhani ",431509,Fatigue,chicken pox,Dr.kulkarni,DD012,S02,23/07/2016,1/12/2016,YES,Urine tests,positive,NO,,,Very Unsatisfied
+122,PD0122,Satish,Gagan,Yes,7020559651,5.4,56,2-Feb-96,20,AB,Selu Parbhani 431506,431506,Back Pain,typhoid,Dr.Bhosale,DD07,S01,24/07/2016,1/12/2016,YES,Blood tests,negative,NO,,,Satisfied
+123,PD0123,Kamal,Apte,Yes,7020512182,5.4,63,17-02-1995,21,A+," Purna,Parbhani 431514",431514,Chest Pain,malaria,Dr.Bhosale,DD07,S12,25/07/2016,1/12/2016,YES,Blood tests,positive,NO,,,Neutral
+124,PD0124,Aubree,Davis,Yes,7020521883,5.5,52,10-May-95,21,A-,"Gangakhed,Parbhani",431514,Fever,dengue,Dr.Kale,DD01,S01,26/07/2016,,NO,Stool tests,negative,YES,25-11-2016,1/12/2016,Satisfied
+125,PD0125,Asif,Iqbal,Yes,7020522104,5.5,51,7-Sep-96,20,O+,"jalna,Jalna 431206",431206,Fever,accident,Dr.Bhosale,DD07,F14,6/8/2016,24-01-2016,YES,,,YES,25-11-2016,2/12/2016,Very Satisfied
+126,PD0126,Ishan,Joshi,Yes,7020522125,5,47,7-Nov-96,20,O-,"Mantha ,Jalna 431507",431507,"Fever,vomiting",dengue,Dr.Sharma,DD08,F17,7/8/2016,2/12/2016,YES,Sputum,positive,YES,26-11-2016,5/12/2016,Very Unsatisfied
+127,PD0127,Ted,Garcia,Yes,7020521646,5.1,54,4-Mar-96,20,A+,"Jintur,Parbhani ",431509,Back Pain,typhoid,Dr.Bhosale,DD07,S01,8/8/2016,,NO,Blood tests,positive,YES,24-11-2016,8/12/2016,Very Unsatisfied
+128,PD0128,Albert,Moore,Yes,7020521767,5.4,54,3-Feb-96,20,AB+,Selu Parbhani 431507,431507,Fatigue,chicken pox,Dr.Bhosale,DD07,S12,9/8/2016,2/12/2016,YES,Blood tests,positive,NO,,,Satisfied
+129,PD0129,Erin,Anderson,Yes,7020892188,5.4,54,28-12-1995,21,AB," Purna,Parbhani 431515",431515,Muscle aches,chicken pox,Dr.Kale,DD01,S01,10/8/2016,21-11-2016,YES,,,NO,,,Neutral
+130,PD0130,Kody,Anderson,Yes,7020582109,5.6,54,13-05-1996,20,A+,"Sonpeth,parbhani 431520",431520,Back Pain,typhoid,Dr.Bhosale,DD07,F20,11/8/2016,21-11-2016,YES,Blood tests,positive,NO,,,Satisfied
+131,PD0131,Adel,White,Yes,7020521430,5.4,66,21/09/1993,23,A-,"Parbhani,parbhani 431405",431401,Fever,malaria,Dr.Sharma,DD08,F23,12/8/2016,21-11-2016,YES,Blood tests,positive,YES,18-11-2016,4/12/2016,Very Satisfied
+132,PD0132,Satish,Thomas,Yes,7020559621,4.5,57,18-11-1995,21,,"Gangakhed,Parbhani",431514,Fever,typhoid,Dr.Kale,DD08,F18,13/08/2016,17-12-2016,YES,,,YES,,,Unsatisfied
+133,PD0133,Kamal,Jones,Yes,8120559651,5,45,28-05-1996,2,,"Manwath,parbhani 431509",431509,"Fever,vomiting",chicken pox,Dr.Bhosale,DD07,S01,14/08/2016,,NO,Blood tests,positive,NO,,,Very Unsatisfied
+134,PD0134,Aubree,Singh,Yes,8120512182,5.4,48,30-04-1995,21,,"Kaij, Beed",431518,Back Pain,chicken pox,Dr.Sharma,DD07,S12,15/08/2016,,NO,,,YES,18-11-2016,28-11-2016,Satisfied
+135,PD0135,Asif,Sanchez,Yes,8220521883,5.2,,28-05/1997,18,,"jalna,Jalna 431207",431207,Fatigue,typhoid,Dr.Bhosale,DD01,S01,16/08/2016,,NO,Urine tests,negative,YES,19-11-2016,24-11-2016,Neutral
+136,PD0190,Azotea,t,Yes,8320522104,6,70,3-Apr-96,20,A+,"Mantha ,Jalna 431508",431508,vomiting,malaria,Dr.Bhosale,DD07,F02,17/08/2016,1/1/2016,YES,Blood tests,positive,NO,,,Satisfied
+137,PD0191,Azoulay,Shaikh,Yes,8420522125,6,68,18-11-1995,21,AB+,"partur,Jalna 431505",431505,Fever,dengue,Dr.Sharma,DD08,F05,9/9/2016,1/1/2016,NO,Urine tests,negative,NO,,,Neutral
+138,PD0192,Azzarito,Sharma,Yes,7820521646,5.2,70,30-05-1995,21,AB,"khuldabad,Aurangabad 431105",431105,Fatigue,accident,Dr.Bhosale,DD07,S01,10/9/2016,1/1/2016,YES,Stool tests,positive,NO,,,Satisfied
+139,PD0193,Azzaro,Mutha,Yes,8520521767,5.2,40,7-Jan-96,20,A+,"Paithan,Aurangabad 431111",431111,Back Pain,dengue,Dr.Bhosale,DD07,S12,11/9/2016,1/1/2016,YES,Sputum,positive,NO,,,Very Satisfied
+140,PD0194,Azznara,Mokase,Yes,9020892188,5.2,45,11-Feb-95,21,A-,"Phulambri,Aurangabad 431115",431115,Chest Pain,typhoid,Dr.Kale,DD01,S01,12/9/2016,1/1/2016,YES,Blood tests,positive,NO,,,Very Unsatisfied
+141,PD0195,Azzopardi,Dange,Yes,8720582109,5,45,28-05-1996,20,O+,"Sillod,Aurangabad 431116",431116,Fever,chicken pox,Dr.Bhosale,DD07,F08,13/09/2016,1/1/2016,Yes,,,NO,,,Neutral
+142,PD0196,Ba,Kulkarni,Yes,7620521430,5.4,48,30-04-1995,21,O-,"Purna,Parbhani 431515",431515,Fever,chicken pox,Dr.Sharma,DD08,F11,14/09/2016,1/1/2016,YES,Stool tests,negative,NO,,,Satisfied
+143,PD0197,Baab,Singh,Yes,9820559621,5.2,46,10-Mar-95,21,A+,"Sonpeth,parbhani 431520",431520,"Fever,vomiting",typhoid,Dr.Kale,DD01,S07,15/09/2016,2/1/2016,YES,Blood tests,negative,NO,,,Very Satisfied
+144,PD0198,Baack,Ingle,Yes,9120559651,5.2,47,19-06-1995,21,AB+,"Parbhani,parbhani 431405",431401,Back Pain,malaria,Dr.Pandey,DD05,S12,16/09/2016,2/1/2016,YES,Blood tests,positive,YES,6/12/2016,25-12-2016,Unsatisfied
+145,PD0199,Baade,Win,Yes,7120512182,5.2,45,30-05-1996,20,AB,Beed,431122,Fatigue,dengue,Dr.kulkarni,DD012,S02,17/09/2016,2/1/2016,NO,,,NO,,,Very Unsatisfied
+146,PD0200,Baadsgaard,Rathod,Yes,9220521883,5.2,58,13-03-1996,20,A+,"Manwath,parbhani 431509",431509,Muscle aches,accident,Dr.Bhosale,DD07,S01,18/09/2016,2/1/2016,NO,Urine tests,negative,YES,6/12/2016,27-12-2016,Satisfied
+147,PD0201,Baar,Natwest,Yes,8720522104,5.2,36,31-10-1995,21,A-,"Kaij, Beed",431518,Back Pain,dengue,Dr.Bhosale,DD07,S12,19/09/2016,2/1/2016,NO,Sputum,negative,YES,6/12/2016,27-12-2016,Neutral
+148,PD0202,Baars,Bharti,Yes,9820522125,5.2,68,19-09-1995,21,O+,"Jintur,Parbhani ",431509,vomiting,typhoid,Dr.Kale,DD01,S01,20/09/2016,3/1/2016,YES,,,NO,,,Satisfied
+149,PD0203,Baarts,Jondar,Yes,9020521646,5.11,60,8-Apr-96,20,O-,Selu Parbhani 431507,431507,Fever,chicken pox,Dr.Bhosale,DD07,F08,21/09/2016,3/1/2016,YES,Blood tests,positive,NO,,,Very Satisfied
+150,PD0204,Baas,Crack,Yes,9520521767,5.2,68,6-Sep-95,21,A+," Purna,Parbhani 431515",431515,Fever,chicken pox,Dr.Sharma,DD08,F11,22/09/2016,3/1/2016,YES,Blood tests,positive,YES,7/12/2016,27-12-2016,Very Unsatisfied
+151,PD0205,Baatz,Shankar,Yes,9420892188,5.2,69,14-04-1995,21,AB+,"Sonpeth,parbhani 431520",431520,"Fever,vomiting",typhoid,Dr.Bhosale,DD07,S01,23/09/2016,3/1/2016,YES,,,YES,7/12/2016,27-12-2016,Very Unsatisfied
+152,PD0206,Babbish,Jadhav,Yes,9620582109,4.6,40,27-10-1993,23,AB,"jalna,Jalna 431207",431207,Back Pain,malaria,Dr.Bhosale,DD07,S12,24/10/2016,3/1/2016,NO,Blood tests,positive,NO,,,Satisfied
+153,PD0207,Babbit,Shyam,Yes,9920521430,4.6,70,21-07-1995,21,A+,"Mantha ,Jalna 431508",431508,Fatigue,dengue,Dr.Kale,DD01,S01,25/10/2016,3/1/2016,NO,,,YES,7/12/2016,27-12-2016,Neutral
+154,PD0208,Babbitt,Bihari,Yes,9920559621,5.2,45,15-08-1995,21,A-,"Jintur,Parbhani ",431509,Muscle aches,accident,Dr.Bhosale,DD07,F14,26/10/2016,4/1/2016,NO,Urine tests,negative,YES,7/12/2016,27-12-2016,Satisfied
+155,PD0209,Babbs,Dahale,Yes,9920597812,5,47,22-06-1995,21,O+,Selu Parbhani 431508,431508,Back Pain,dengue,Dr.Sharma,DD08,F17,27/10/2016,4/1/2016,YES,Urine tests,positive,NO,,,Very Satisfied
+156,PD0210,Babcock,Bumrah,Yes,9920636003,5,48,10-Oct-95,21,O-,"Sonpeth,parbhani",431516,vomiting,typhoid,Dr.Kale,DD01,S07,28/10/2016,4/1/2016,YES,Blood tests,negative,NO,,,Very Unsatisfied
+157,PD0234,Babjeck,Green ,Yes,9920674194,5,48,22-6-1995,21,A+,"Sonpeth,parbhani 431521",431521,Fever,chicken pox,Dr.Pandey,DD05,S12,29/10/2016,4/1/2016,YES,Blood tests,positive,NO,,,Neutral
+158,PD0235,Bablak, Jones ,Yes,9920712385,5.1,54,4-Jan-96,20,AB+,"Parbhani,parbhani 431406",431401,Fatigue,chicken pox,Dr.kulkarni,DD012,S02,30/10/2016,4/1/2016,NO,Stool tests,negative,YES,8/12/2016,26-12-2016,Satisfied
+159,PD0236,Bable,White,Yes,9020522125,5.4,56,2-Feb-96,20,AB,"Ambejogai,Beed",431721,Back Pain,typhoid,Dr.Bhosale,DD07,S01,31/10/2016,4/1/2016,YES,,,YES,8/12/2016,25-12-2016,Very Satisfied
+160,PD0237,Babonis,Williams,Yes,7020521646,5.4,63,17-02-1995,21,A+,"Manwath,parbhani 431510",431510,Chest Pain,malaria,Dr.Bhosale,DD07,S12,1/11/2016,4/1/2016,YES,Sputum,positive,YES,8/12/2016,24-12-2016,Unsatisfied
+161,PD0238,Babrow,Taylor,Yes,9524521767,5.5,52,10-May-95,21,A-,"Gangakheda,Parbhani 431519",431519,Fever,dengue,Dr.Kale,DD01,S01,2/11/2016,4/1/2016,NO,Blood tests,positive,YES,8/12/2016,25-12-2016,Very Unsatisfied
+162,PD0239,Babson,Cote,Yes,9429892188,5.5,51,7-Sep-96,20,O+,"jalna,Jalna 431208",431208,Fever,accident,Dr.Bhosale,DD07,F14,3/11/2016,4/1/2016,YES,Blood tests,positive,NO,,,Satisfied
+163,PD0240,Babula,Clark,Yes,9335262609,5,47,7-Nov-96,20,O-,"Mantha ,Jalna 431509",431509,"Fever,vomiting",dengue,Dr.Sharma,DD08,F17,4/11/2016,5/1/2016,NO,Urine tests,negative,NO,,,Neutral
+164,PD0241,Babyak,Wright ,Yes,9240633030,5.1,54,4-Mar-96,20,A+,"partur,Jalna 431506",431506,Back Pain,typhoid,Dr.Bhosale,DD07,S01,5/11/2016,5/1/2016,YES,Urine tests,positive,NO,,,Satisfied
+165,PD0242,Baca,Taylor,Yes,9146003451,5.4,54,3-Feb-96,20,AB+,"khuldabad,Aurangabad 431106",431106,Fatigue,chicken pox,Dr.Bhosale,DD07,S12,6/11/2016,5/1/2016,NO,,,YES,9/12/2016,22-12-2016,Very Satisfied
+166,PD0243,Bacak,Trivedi,Yes,9051373872,5.4,54,28-12-1995,21,AB,"Paithan,Aurangabad 431112",431112,Muscle aches,chicken pox,Dr.Kale,DD01,S01,7/11/2016,5/1/2016,YES,Blood tests,positive,YES,9/12/2016,21-12-2016,Very Unsatisfied
+167,PD0244,Bacarella,Wilson ,Yes,8956744293,5.6,54,13-05-1996,20,A+,"Phulambri,Aurangabad 431116",431116,Back Pain,typhoid,Dr.Bhosale,DD07,F20,8/11/2016,5/1/2016,YES,Blood tests,negative,NO,,,Very Unsatisfied
+168,PD0245,Bacayo,Sanchez ,Yes,8862114714,5.4,66,21/09/1993,23,A-,"Sillod,Aurangabad 431117",431117,Fever,malaria,Dr.Sharma,DD08,F23,9/11/2016,5/1/2016,YES,Blood tests,positive,NO,,,Satisfied
+169,PD0246,Bacca, Fernando,Yes,8767485135,4.5,57,18-11-1995,21,O+,"Sonpeth,parbhani",431516,Fever,typhoid,Dr.Kale,DD08,F18,10/11/2016,5/1/2016,NO,Stool tests,negative,YES,10/12/2016,26-12-2016,Neutral
+170,PD0247,Babonis,Williams,Yes,8672855556,5,45,28-05-1996,2,O-,Aurangabad431001,431001,"Fever,vomiting",chicken pox,Dr.Bhosale,DD07,S01,11/11/2016,5/1/2016,YES,,,YES,10/12/2016,25-12-2016,Satisfied
+171,PD0248,Babrow,Taylor,Yes,8578225977,5.4,48,30-04-1995,21,A+,Aurangabad431002,431002,Back Pain,chicken pox,Dr.Sharma,DD07,S12,12/11/2016,6/1/2016,YES,Sputum,positive,YES,,,Very Satisfied
+172,PD0249,Babson,Cote,Yes,8483596398,5.2,49,28-05/1997,18,AB+,Aurangabad431001,431001,Fatigue,typhoid,Dr.Bhosale,DD01,S01,13/11/2016,6/1/2016,NO,Blood tests,positive,YES,,,Unsatisfied
